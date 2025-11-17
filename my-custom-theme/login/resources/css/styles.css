@@ -1,0 +1,79 @@
+body {
+    font-family: 'Segoe UI', Arial, sans-serif;
+    
+    background :#ccc;
+}
+
+#kc-content-wrapper {
+    max-width: 500px;
+    margin: 50px auto;
+    padding: 20px;
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+.pf-c-button.pf-m-primary {
+    background-color: #0078d4;
+    border: none;
+    color: #fff;
+    font-size: 16px;
+    padding: 10px;
+    border-radius: 4px;
+}
+
+.pf-c-button.pf-m-primary:hover {
+    background-color: #005a9e;
+}
+
+input[type="text"], input[type="email"], input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+div.kc-logo-text {
+    background-image: url("../img/company-logo.png"); /* Your logo file */
+    background-size: contain; /* Ensures proper scaling */
+    background-repeat: no-repeat;
+    height: 63px; /* Adjust as needed */
+    width: 300px; /* Adjust as needed */
+    margin: 0 auto;
+}
+
+/* Target the header wrapper */
+#kc-header-wrapper {
+    
+    
+    text-indent: -9999px; /* hides original text */
+    overflow: hidden;
+    background-image: url("../img/company-logo.png");
+    background-size: 200px;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 80px;
+    width: 200px;
+    position: relative;
+    cursor: pointer;
+
+    
+
+}
+
+#kc-header-wrapper::after {
+    content: "teamplay"; /* Your text */
+    position: absolute;
+    bottom: -25px; /* Adjust vertical position */
+    left: 50%;
+    transform: translateX(-50%);
+    font-size: 39px;
+    font-weight: bold;
+    color: #990d0d; /* Adjust color */
+}
+
+#kc-header {
+    background-color:rgb(212, 240, 245);
+
+}
