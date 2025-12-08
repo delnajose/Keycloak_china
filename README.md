@@ -1,6 +1,7 @@
 # Keycloak UI Customization – Technical Implementation
 
-This repository documents the comprehensive customization of Keycloak’s UI for login, registration, and email verification workflows, including installation, configuration, and integration with frontend applications.
+This repository provides detailed documentation on customizing Keycloak’s UI for user authentication workflows, covering installation, configuration, and frontend integration.
+
 
 ---
 
