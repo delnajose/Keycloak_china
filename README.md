@@ -6,7 +6,7 @@ This repository provides detailed documentation on customizing Keycloak’s UI f
 ---
 
 ## Table of Contents
-1. [Project Overview](#project-overview)  
+1. [Task Overview](#project-overview)  
 2. [System Requirements](#system-requirements)  
 3. [Installation & Setup](#installation--setup)  
 4. [Realm & Client Configuration](#realm--client-configuration)  
@@ -17,7 +17,7 @@ This repository provides detailed documentation on customizing Keycloak’s UI f
 
 ---
 
-## Project Overview
+## Task Overview
 
 Keycloak UI customization was implemented to:  
 - The goal of this project is to design and implement a fully customized Keycloak theme that aligns with the organization’s branding and improves the overall user experience.
