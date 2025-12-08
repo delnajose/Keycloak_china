@@ -141,7 +141,8 @@ Inherits from Keycloak’s minimal `base` theme, which includes:
 - No advanced styling
 
 You only override what you want to customize.
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/ee435305-2896-4687-8b2a-2b419a179a14" />
+![Parent = base theme](https://github.com/user-attachments/assets/ee435305-2896-4687-8b2a-2b419a179a14)
+
 
 
 **Example Directory Structure:**
@@ -179,7 +180,8 @@ This includes:
 - Responsive design
 
 You only override what you want.
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/3431e8bc-e3d7-48fa-b3f0-9b1cad9cf155" />
+![Parent = keycloak theme](https://github.com/user-attachments/assets/3431e8bc-e3d7-48fa-b3f0-9b1cad9cf155)
+
 
 **Example Directory Structure:**
 
@@ -270,8 +272,9 @@ Keycloak email functionality (for registration verification, etc.) was configure
 
 ---
 
-![Email setup](https://github.com/delnajose/Keycloak_china/blob/main/Images/email1.png)
-![Email setup](https://github.com/delnajose/Keycloak_china/blob/main/Images/email2.png)
+![SMTP configuration in Keycloak](https://github.com/delnajose/Keycloak_china/blob/main/Images/email1.png?raw=true)
+![Testing email connectivity in Keycloak](https://github.com/delnajose/Keycloak_china/blob/main/Images/email2.png?raw=true)
+
 
 
 
